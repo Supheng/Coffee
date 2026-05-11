@@ -7,7 +7,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
-        android:text="Hello From me"
+        android:text="Hello to all my friend"
         android:textAlignment="center"
         android:textSize="16.dp"
         android:padding="30dp"
